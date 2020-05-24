@@ -1,8 +1,19 @@
 # Real-time-backpack-recommendation-based-on-object-detection
-This system use YOLOv3 to detect the backpack and recommendate the similar backpacks.
+This system uses YOLOv3 to detect the backpack and recommends the similar backpacks.
 
 <img src="https://github.com/gsdndeer/Real-time-backpack-recommendation-based-on-object-detect/blob/master/figures/gui.png">
 
+The work structure:
+```
+Real-time-backpack-recommendation-based-on-object-detection
+|--- yolo3
+|--- model_data
+|--- figures
+|--- font
+|--- image
+|--- system.py
+|--- yolo
+```
 ## Usage
 
 1. Clone the repository
