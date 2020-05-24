@@ -1,7 +1,7 @@
 # Real-time-backpack-recommendation-based-on-object-detection
 This system uses YOLOv3 to detect the backpack and recommends the similar backpacks.
 
-<img src="https://github.com/gsdndeer/Real-time-backpack-recommendation-based-on-object-detect/blob/master/figures/gui.png">
+<img src="https://github.com/gsdndeer/Real-time-backpack-recommendation-based-on-object-detect/blob/master/figures/topic.gif">
 
 The work structure :
 ```
