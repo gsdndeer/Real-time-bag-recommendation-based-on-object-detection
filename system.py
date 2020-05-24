@@ -18,7 +18,7 @@ from keras.applications.vgg16 import VGG16
 from keras.preprocessing import image
 from keras.applications.vgg16 import preprocess_input
 from yolo_detector import YOLO_detect
-from yolo_multiple_output1120 import YOLO, YOLO2
+from yolo_multiple_output import YOLO, YOLO2
 
 import time
 
