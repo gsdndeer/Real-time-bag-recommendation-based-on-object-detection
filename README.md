@@ -3,16 +3,25 @@ This system uses YOLOv3 to detect the backpack and recommends the similar backpa
 
 <img src="https://github.com/gsdndeer/Real-time-backpack-recommendation-based-on-object-detect/blob/master/figures/gui.png">
 
-The work structure:
+The work structure :
 ```
 Real-time-backpack-recommendation-based-on-object-detection
-|--- yolo3
-|--- model_data
-|--- figures
-|--- font
-|--- image
-|--- system.py
-|--- yolo
+      |
+       --- yolo3
+      |
+       --- model_data
+      |
+       --- figures
+      |
+       --- font
+      |
+       --- image
+      |
+       --- system.py
+      |
+       --- yolo_multiple_output.py
+      |
+       --- yolo_detector.py
 ```
 ## Usage
 
@@ -21,7 +30,9 @@ Real-time-backpack-recommendation-based-on-object-detection
 git clone https://github.com/gsdndeer/Real-time-backpack-recommendation-based-on-object-detection.git
 ```
 
-2. Run ```python system.py```
+2. Add a folder named "image" in "Real-time-backpack-recommendation-based-on-object-detection"
+
+3. Run ```python system.py```
 
 
 ## Acknowledgement
