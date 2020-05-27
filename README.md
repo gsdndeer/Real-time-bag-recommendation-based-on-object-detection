@@ -30,7 +30,7 @@ Real-time-bag-recommendation-based-on-object-detection
 git clone https://github.com/gsdndeer/Real-time-bag-recommendation-based-on-object-detection.git
 ```
 
-2. Add a folder named "image" in "Real-time-bacg-recommendation-based-on-object-detection"
+2. Add a folder named "image" in "Real-time-bag-recommendation-based-on-object-detection"
 
 3. Run ```python system.py```
 
