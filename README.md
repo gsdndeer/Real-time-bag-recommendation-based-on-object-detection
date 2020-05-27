@@ -1,11 +1,11 @@
-# Real-time-backpack-recommendation-based-on-object-detection
-This system uses YOLOv3 to detect the backpack and recommends the similar backpacks.
+# Real-time-bag-recommendation-based-on-object-detection
+This system uses YOLOv3 to detect the bag and recommends the similar bags.
 
-<img src="https://github.com/gsdndeer/Real-time-backpack-recommendation-based-on-object-detect/blob/master/figures/demo.gif">
+<img src="https://github.com/gsdndeer/Real-time-bag-recommendation-based-on-object-detect/blob/master/figures/demo.gif">
 
 The work structure :
 ```
-Real-time-backpack-recommendation-based-on-object-detection
+Real-time-bag-recommendation-based-on-object-detection
       |
        --- yolo3
       |
@@ -27,10 +27,10 @@ Real-time-backpack-recommendation-based-on-object-detection
 
 1. Clone the repository
 ```
-git clone https://github.com/gsdndeer/Real-time-backpack-recommendation-based-on-object-detection.git
+git clone https://github.com/gsdndeer/Real-time-bag-recommendation-based-on-object-detection.git
 ```
 
-2. Add a folder named "image" in "Real-time-backpack-recommendation-based-on-object-detection"
+2. Add a folder named "image" in "Real-time-bacg-recommendation-based-on-object-detection"
 
 3. Run ```python system.py```
 
